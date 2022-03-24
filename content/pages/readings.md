@@ -137,7 +137,7 @@ _Homework_
   
 Read: Halloran, S. M. "The birth of molecular biology: an essay in the rhetorical criticism of scientific discourse." _Rhetoric Review_ 3 (1984): 70-83.  
   
-Moore, Randy. "Writing About Biology: How Rhetorical Choices Can Influence the Impact of a Scientific Paper." _Bioscene_ 26, no. 1 (February 2000): 23-25. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ607080&ERICExtSearch_SearchType_0=no&accno=EJ607080))  
+Moore, Randy. "Writing About Biology: How Rhetorical Choices Can Influence the Impact of a Scientific Paper." _Bioscene_ 26, no. 1 (February 2000): 23-25. ([PDF](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ607080&ERICExtSearch_SearchType_0=no&accno=EJ607080))  
   
 Watson, J., and F. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (1953): 737. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 {{< tdclose >}}
